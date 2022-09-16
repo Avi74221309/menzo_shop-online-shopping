@@ -1,0 +1,26 @@
+[10-Oct-2020 05:10:11 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/sriramtrade/public_html/demo_development/chowkdi/site/payment.php on line 305
+[12-Oct-2020 02:25:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/sriramtrade/public_html/demo_development/chowkdi/site/cart1.php on line 121
+[13-Oct-2020 02:06:57 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/sriramtrade/public_html/demo_development/chowkdi/site/payment_status.php on line 660
+[15-Oct-2020 05:47:11 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/sriramtrade/public_html/demo_development/chowkdi/site/details.php on line 407
+[15-Oct-2020 05:47:11 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/sriramtrade/public_html/demo_development/chowkdi/site/details.php on line 407
+[15-Oct-2020 05:47:15 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/sriramtrade/public_html/demo_development/chowkdi/site/details.php on line 407
+[17-Oct-2020 16:46:10 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/chowkdi/public_html/include/header.php on line 347
+[17-Oct-2020 16:46:19 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/chowkdi/public_html/include/header.php on line 347
+[17-Oct-2020 16:46:22 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/chowkdi/public_html/include/header.php on line 347
+[17-Oct-2020 16:46:27 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/chowkdi/public_html/include/header.php on line 347
+[17-Oct-2020 16:46:35 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/chowkdi/public_html/include/header.php on line 347
+[17-Oct-2020 16:46:36 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/chowkdi/public_html/include/header.php on line 347
+[17-Oct-2020 16:46:39 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/chowkdi/public_html/include/header.php on line 347
+[17-Oct-2020 16:47:52 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/chowkdi/public_html/include/header.php on line 347
+[17-Oct-2020 16:47:52 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/chowkdi/public_html/include/header.php on line 347
+[17-Oct-2020 16:47:55 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/chowkdi/public_html/include/header.php on line 347
+[17-Oct-2020 16:47:56 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/chowkdi/public_html/include/header.php on line 347
+[17-Oct-2020 16:47:56 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/chowkdi/public_html/include/header.php on line 347
+[17-Oct-2020 16:47:56 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/chowkdi/public_html/include/header.php on line 347
+[17-Oct-2020 16:47:56 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/chowkdi/public_html/include/header.php on line 347
+[17-Oct-2020 16:49:12 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/chowkdi/public_html/include/header.php on line 348
+[17-Oct-2020 06:31:35 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/chowkdi/public_html/index.php on line 211
+[17-Oct-2020 06:31:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/chowkdi/public_html/index.php on line 212
+[17-Oct-2020 06:31:35 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/chowkdi/public_html/index.php on line 318
+[17-Oct-2020 06:31:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/chowkdi/public_html/index.php on line 319
+[20-Oct-2020 13:36:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function expplode() in /home1/chowkdi/public_html/include/header.php on line 15
